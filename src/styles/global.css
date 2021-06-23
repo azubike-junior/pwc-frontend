@@ -1,0 +1,47 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+:root {
+    --maingreen: #6EB751;
+    --blackColor: #000000;
+    --cream: #FFFBE6;
+    --dark-gray: #18191F;
+    --white:#E5E5E5;
+}
+
+html, body {
+    max-width: 100%;
+    overflow: none;
+}
+
+.creamy-bg{
+    background: var(--cream)
+}
+
+.bg-maingreen{
+    background: var(--maingreen)
+}
+
+.bg-darker-green {
+    background: #4F8669;
+}
+
+.bg-gray-white {
+    background: #F9F9F9;
+}
+
+.font-poppins {
+    font-family:Poppins;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Space+Grotesk:wght@500;600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Space+Grotesk:wght@500;600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Raleway:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&family=Poppins:wght@300&family=Raleway:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+

@@ -1,0 +1,50 @@
+.landing {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: var(--cream);
+    padding: 2rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.landing-content {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.landing-p {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.landing-head {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 62px;
+    color: #000000;
+}
+
+.landing-para2 {
+    width: 492px;
+    height: 151px;
+    left: 76px;
+    top: 338px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.landing1-img {
+    width: 1200px;
+}
+

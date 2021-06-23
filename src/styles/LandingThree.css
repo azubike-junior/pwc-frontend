@@ -1,0 +1,69 @@
+.pricing-section {
+    height: 120vh;
+    background-color: var(--cream);
+}
+
+.container-2 {
+    padding: 2rem;
+}
+
+.pricing-header {
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 63px;
+    color: var(--blackColor)
+}
+
+.pricing-box {
+    width: 365px;
+    height: 282.83px;
+    background-color: #ffffff;
+    border: 1px solid rgba(37, 190, 108, 0.1);
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+}
+
+.pricing-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pricing-title{
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 23px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.pricing-text{
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #747474;
+}
+
+.pricing-plans{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.plans {
+    display : grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap:1rem;
+}
+

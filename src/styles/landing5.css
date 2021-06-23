@@ -1,0 +1,33 @@
+.heading {
+    display: block;
+    text-align: center;
+    padding-top: 100px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 63px;
+    color: #000000;
+}
+
+.partners-container {
+    background-color: #ffffff;
+    position: relative;
+}
+
+.circle-s {
+    position: absolute;
+    top:12%;
+    left: 38%;
+}
+
+.logo {
+    width: 370px;
+    padding-right: 5rem;
+}
+
+
+.data,
+.petty {
+    padding-top: 0px;
+}
